@@ -22,6 +22,10 @@ This project creates a smart media knob that communicates via USB to control sys
 - USB Cable (for Arduino connection)
 - Windows PC with Python 3 installed
 
+## Circuit Diagram
+
+["./images/Circuit.png]
+
 ## 🛠 Software Setup
 
 ### Arduino Code
